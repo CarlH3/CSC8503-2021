@@ -1,0 +1,34 @@
+﻿  Assets.cpp
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\Common\Assets.cpp(45,9): warning C4244: “=”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+  Camera.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshAnimation.cpp
+  MeshGeometry.cpp
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\Common\MeshGeometry.cpp(283,20): warning C4018: “<”: 有符号/无符号不匹配
+  MeshMaterial.cpp
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\Common\MeshMaterial.cpp(64,17): warning C4018: “>=”: 有符号/无符号不匹配
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  正在生成代码...
+  正在编译...
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+  Win32Mouse.cpp
+  Win32Window.cpp
+  Window.cpp
+  正在生成代码...
+  Common.vcxproj -> G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\Win32\Debug\Common.lib

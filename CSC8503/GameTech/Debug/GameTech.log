@@ -1,0 +1,21 @@
+﻿  GameTechRenderer.cpp
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+  hzy.cpp
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.h(305,1): warning C4305: “=”: 从“double”到“float”截断
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.h(343,1): warning C4305: “=”: 从“double”到“float”截断
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\hzy.cpp(367,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  TutorialGame.cpp
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.h(305,1): warning C4305: “=”: 从“double”到“float”截断
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.h(343,1): warning C4305: “=”: 从“double”到“float”截断
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(796,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(797,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(798,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Player.cpp
+  SideToSideGameObject.cpp
+  正在生成代码...
+  GameTech.vcxproj -> G:\GameEngine\Demo\ZhengYang He coursework\8503 Release  2021\Win32\Debug\GameTech.exe

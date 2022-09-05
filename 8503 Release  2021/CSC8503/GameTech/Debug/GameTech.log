@@ -1,0 +1,18 @@
+﻿  GameTechRenderer.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  Main.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\Main.cpp(153,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\Main.cpp(214,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\Main.cpp(281,18): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\Main.cpp(306,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\Main.cpp(331,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  StateGameObject.cpp
+  TutorialGame.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\Main.cpp(363,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  Generating Code...
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  GameTech.vcxproj -> C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\Win32\Debug\GameTech.exe

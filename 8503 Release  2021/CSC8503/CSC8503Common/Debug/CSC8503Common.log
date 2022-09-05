@@ -1,0 +1,31 @@
+﻿  CollisionDetection.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  Debug.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\Debug.cpp(67,20): warning C4018:  '<': signed/unsigned mismatch
+  GameObject.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\Debug.cpp(78,16): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  GameWorld.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  PhysicsSystem.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  QuadTree.cpp
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  CSC8503Common.vcxproj -> C:\Users\c0024547\OneDrive - Newcastle University\8503 Release  2021\8503 Release  2021\Win32\Debug\CSC8503Common.lib

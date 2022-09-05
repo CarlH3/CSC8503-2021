@@ -1,0 +1,12 @@
+﻿  glad.c
+  OGLComputeShader.cpp
+  OGLMesh.cpp
+  OGLRenderer.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\8503 Release  2021\Plugins\OpenGLRendering\OGLRenderer.cpp(301,51): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\8503 Release  2021\Plugins\OpenGLRendering\OGLRenderer.cpp(323,52): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OGLShader.cpp
+  OGLTexture.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  OpenGLRendering.vcxproj -> D:\8503 Release  2021\x64\Debug\OpenGLRendering.lib

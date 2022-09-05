@@ -1,0 +1,39 @@
+﻿  Assets.cpp
+  Camera.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GameTimer.cpp
+  Keyboard.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshAnimation.cpp
+  MeshGeometry.cpp
+  MeshMaterial.cpp
+D:\8503 Release  2021\Common\MeshMaterial.cpp(48,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Generating Code...
+  Compiling...
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Win32Mouse.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Win32Window.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Window.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Common.vcxproj -> D:\8503 Release  2021\x64\Debug\Common.lib

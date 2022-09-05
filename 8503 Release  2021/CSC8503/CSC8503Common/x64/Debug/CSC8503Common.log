@@ -1,0 +1,24 @@
+﻿  CollisionDetection.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Debug.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GameObject.cpp
+  GameWorld.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  PhysicsSystem.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+D:\8503 Release  2021\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> D:\8503 Release  2021\x64\Debug\CSC8503Common.lib
